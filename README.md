@@ -83,7 +83,7 @@ Built during the Ctrl + Alt + Compete Hackathon (RVCE × IEEE × Synaptics) to m
 
 ## 📬 Connect with Me  
 📧 nikhil2310204@ssn.edu.in
-🔗 [LinkedIn – Nikhil S.]([www.linkedin.com/in/nikhilsenthilkumar](https://www.linkedin.com/in/nikhil-s-062558239/))
+🔗 [LinkedIn – Nikhil S.](https://www.linkedin.com/in/nikhil-s-062558239/)  
 
 ---
 
