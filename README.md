@@ -7,7 +7,6 @@
 
 ## 🔍 Interests  
 - Applied AI & Speech Systems  
-- Digital Twins & Infrastructure Simulation  
 - Full-Stack Engineering & System Design  
 - Geospatial Intelligence & Optimization Algorithms  
 - Backend APIs & Database Systems  
