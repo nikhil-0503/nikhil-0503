@@ -71,7 +71,7 @@ Built during the Ctrl + Alt + Compete Hackathon (RVCE × IEEE × Synaptics) to m
 - Modular pipeline for scalable deployment in heritage sites  
 
 **Tech Stack**: YOLOv8, OpenCV, Python, Streamlit  
-🔗 [GitHub Repo]([https://github.com/nikhil-0503/Department-Library](https://github.com/nikhil-0503/AI-Powered_Heritage_Site_Health_Monitoring))
+🔗 [GitHub Repository](https://github.com/nikhil-0503/AI-Powered_Heritage_Site_Health_Monitoring)
 
 ---
 
