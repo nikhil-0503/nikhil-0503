@@ -37,16 +37,16 @@ An AR/VR-powered platform that helps users practice language skills through imme
 
 ---
 
-### 🛰️ Digital Twin-Based 5G Tower Site Planner  
-A geospatial simulation tool to optimize 5G tower placement through smart site recommendation and environmental modeling.  
-- Mapbox-powered React frontend with real-time visualizations  
-- Backend using Flask + Haversine formula for calculating optimal placement  
-- Cost breakdown reports (CAPEX/OPEX) with downloadable PDFs  
-- Digital twin simulation for assessing deployment feasibility and planning logistics  
-- Secure authentication for dashboard access  
+### 🚗 Vehicle Parking App – V1  
+A multi-user parking management web application built as part of **Modern Application Development I (MAD-1)** project. It supports both admin and user roles with automated spot management and real-time cost calculation.  
+- Admin dashboard to add, edit, and delete parking lots (with auto-generated spots)  
+- User-friendly interface for booking and vacating spots with live status tracking  
+- Real-time cost computation based on timestamp differences  
+- Searchable tables, reservation history, and usage statistics with charts  
+- Modular template structure with HTML5 validation and backend checks  
 
-**Tech Stack**: React, Vite, Flask, Python, Mapbox GL JS, SQLite, CSV, PDF Generation  
-🔗 [GitHub Repo](https://github.com/nikhil-0503/NPProject)
+**Tech Stack**: Flask, Flask-SQLAlchemy, SQLite, Jinja2, Bootstrap, Chart.js, Python Libraries (Datetime, Regex, Collections)  
+🔗 [GitHub Repo](https://github.com/nikhil-0503/Vehicle-Parking-App)
 
 ---
 
@@ -83,7 +83,7 @@ Built during the Ctrl + Alt + Compete Hackathon (RVCE × IEEE × Synaptics) to m
 
 ## 📬 Connect with Me  
 📧 nikhil2310204@ssn.edu.in
-🔗 [LinkedIn – Nikhil S.](https://www.linkedin.com/in/nikhil-s-062558239/)  
+🔗 [LinkedIn – Nikhil S.](www.linkedin.com/in/nikhil0503/)  
 
 ---
 
