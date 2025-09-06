@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Nikhil S.
 
 🎓 Pre-Final Year B.Tech Student in Information Technology at **SSN College of Engineering** & **IIT Madras**  
-📍 Based in Chennai, India | 💡 Passionate about AI, simulation, full-stack systems, and solving real-world problems through tech.
+📍 Based in Chennai, India | 💡 Passionate about AI, Data Science, full-stack systems, and solving real-world problems through tech.
 
 ---
 
