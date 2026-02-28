@@ -15,39 +15,48 @@ Outside of tech, I value discipline, creativity, and continuous self-improvement
 ---
 
 ## 🔍 Interests  
-- Applied AI & Speech Systems  
-- Full-Stack Engineering & System Design  
-- Geospatial Intelligence & Optimization Algorithms  
-- Backend APIs & Database Systems  
+- AI Systems, Hallucination Detection & Applied Machine Learning  
+- Intelligent Signal Processing & Speech-Based Technologies  
+- Scalable Backend Architectures & Full-Stack Engineering  
+- Data-Driven System Design & Optimization Algorithms  
+- Immersive AR/VR Environments & Human-Centered AI  
 
 ---
 
 ## 🧰 Tech Stack  
 
 ### 🌐 Web Development  
-- HTML | CSS | JavaScript | React | Vite  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+</p>
 
 ### ⚙️ Backend Development  
-- Python | Flask | FastAPI | REST APIs  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi" />
+</p>
 
 ### 🤖 AI / ML  
-- OpenCV | YOLOv8 | Azure Speech APIs | Google Multimodal  
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Speech-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Multimodal-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
-### 📱 AR/VR & App Development  
-- Unity | Flutter  
+### 🎮 AR/VR & App Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,flutter" />
+</p>
 
 ### 🗄 Databases  
-- PostgreSQL | SQLite | MySQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
 
 ### ☁️ Cloud & DevOps  
-- Git | GitHub Actions | Azure  
-
-### 🧠 Concepts  
-- Digital Twin Simulation  
-- Socket Programming  
-- Speech Analysis  
-- Trie Data Structure  
-- Authentication & Security  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,azure" />
+</p>
 
 ---
 
@@ -76,19 +85,6 @@ An AR/VR-powered platform that helps users practice language skills through imme
 
 **Tech Stack**: Unity, Blender, Daz 3D, Google Multimodal API, Azure STT/TTS, Python, Sketchfab  
 🔗 [GitHub Repo](https://github.com/nikhil-0503/VirtuLingo-LanguageMastery)
-
----
-
-### 🏛️ Department Library Management System  
-A secure, full-stack web platform to automate IT department library operations — built as part of the "Advanced Data Structures" course.  
-- Role-based dashboards (Admin, Student/Faculty) with bcrypt-hashed logins  
-- Trie-based autocomplete engine for smart book search and typo correction  
-- Real-time availability tracking, audit trails, and CSV import/export  
-- Borrowing workflows with fine rules, due-date logic, and notifications  
-- REST APIs and optimized PostgreSQL indexing for scalability  
-
-**Tech Stack**: Python, Flask, PostgreSQL, HTML/CSS/JS, Trie Data Structure, bcrypt, RESTful APIs  
-🔗 [GitHub Repo](https://github.com/nikhil-0503/Department-Library)
 
 ---
 
