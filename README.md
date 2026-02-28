@@ -1,7 +1,16 @@
 # 👋 Hey, I'm Nikhil S.
 
-🎓 Pre-Final Year B.Tech Student in Information Technology at **SSN College of Engineering** & **IIT Madras**  
-📍 Based in Chennai, India | 💡 Passionate about AI, Data Science, full-stack systems, and solving real-world problems through tech.
+🎓 Pre-Final Year B.Tech (Information Technology) Student at **SSN College of Engineering**  
+📊 Pursuing B.S. in Data Science and Applications at **IIT Madras**  
+📍 Chennai, India  
+
+I’m deeply interested in building intelligent systems that combine strong software engineering with data-driven thinking. I enjoy exploring how scalable backend architectures, machine learning, and immersive technologies can come together to solve meaningful real-world problems.
+
+My curiosity lies at the intersection of AI, systems design, and applied analytics — where ideas move beyond theory into practical, deployable solutions. I’m constantly learning, experimenting, and refining my approach to writing clean, efficient, and impactful code.
+
+Outside of tech, I value discipline, creativity, and continuous self-improvement — qualities that shape both my work and mindset.
+
+🚀 Always open to collaborating on innovative and challenging ideas.
 
 ---
 
@@ -14,15 +23,48 @@
 ---
 
 ## 🧰 Tech Stack  
-**Languages**: Python, JavaScript, SQL, C  
-**Frameworks & Tools**: Flask, FastAPI, React, Vite, Unity, OpenCV, Streamlit  
-**Databases**: PostgreSQL, SQLite  
-**Libraries**: YOLOv8, Azure Speech APIs, Mapbox, Google Multimodal, Trie, bcrypt  
-**Concepts**: Digital Twin Simulation, Socket Programming, REST APIs, Speech Analysis  
+
+### 🌐 Web Development  
+- HTML | CSS | JavaScript | React | Vite  
+
+### ⚙️ Backend Development  
+- Python | Flask | FastAPI | REST APIs  
+
+### 🤖 AI / ML  
+- OpenCV | YOLOv8 | Azure Speech APIs | Google Multimodal  
+
+### 📱 AR/VR & App Development  
+- Unity | Flutter  
+
+### 🗄 Databases  
+- PostgreSQL | SQLite | MySQL  
+
+### ☁️ Cloud & DevOps  
+- Git | GitHub Actions | Azure  
+
+### 🧠 Concepts  
+- Digital Twin Simulation  
+- Socket Programming  
+- Speech Analysis  
+- Trie Data Structure  
+- Authentication & Security  
 
 ---
 
 ## 🚀 Highlight Projects  
+
+### 🛡️ WATCHDOG – AI Hallucination Detection & Output Control System  
+A production-ready AI safety gateway that detects hallucinations and enforces ALLOW/WARN/BLOCK policies on LLM outputs in real time.  
+- FastAPI-based LLM proxy layer with configurable enforcement rules  
+- Real-time hallucination detection with confidence scoring and risk flags  
+- Secure environment-based configuration (Mock/Production) with OpenRouter integration  
+- Enterprise admin dashboard with prompt logs, filtering, and export features  
+- Responsive dark-themed UI with role-based access and activity monitoring  
+
+**Tech Stack**: Python, FastAPI, React.js, OpenRouter API, RESTful APIs, Framer Motion, Policy Enforcement Engine  
+🔗 [GitHub Repo](https://github.com/nikhil-0503/Hallucination-Watchdog)
+
+---
 
 ### 🗣️ VirtuLingo – Immersive AR/VR-Based Language Learning Platform  
 An AR/VR-powered platform that helps users practice language skills through immersive and lifelike scenarios.  
@@ -34,19 +76,6 @@ An AR/VR-powered platform that helps users practice language skills through imme
 
 **Tech Stack**: Unity, Blender, Daz 3D, Google Multimodal API, Azure STT/TTS, Python, Sketchfab  
 🔗 [GitHub Repo](https://github.com/nikhil-0503/VirtuLingo-LanguageMastery)
-
----
-
-### 🚗 Vehicle Parking App – V1  
-A multi-user parking management web application built as part of **Modern Application Development I (MAD-1)** project. It supports both admin and user roles with automated spot management and real-time cost calculation.  
-- Admin dashboard to add, edit, and delete parking lots (with auto-generated spots)  
-- User-friendly interface for booking and vacating spots with live status tracking  
-- Real-time cost computation based on timestamp differences  
-- Searchable tables, reservation history, and usage statistics with charts  
-- Modular template structure with HTML5 validation and backend checks  
-
-**Tech Stack**: Flask, Flask-SQLAlchemy, SQLite, Jinja2, Bootstrap, Chart.js, Python Libraries (Datetime, Regex, Collections)  
-🔗 [GitHub Repo](https://github.com/nikhil-0503/Vehicle-Parking-App)
 
 ---
 
@@ -75,9 +104,9 @@ Built during the Ctrl + Alt + Compete Hackathon (RVCE × IEEE × Synaptics) to m
 
 ---
 
-## 📈 GitHub Stats  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil-0503&show_icons=true&theme=tokyonight)](https://github.com/nikhil-0503)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-0503&layout=compact&theme=tokyonight)](https://github.com/nikhil-0503)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nikhil-0503&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nikhil-0503&layout=compact&theme=tokyonight)
 
 ---
 
