@@ -111,20 +111,22 @@ https://github.com/nikhil-0503/VirtuLingo-LanguageMastery
 
 ## GitHub Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhil-0503&theme=github_dark)
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhil-0503&theme=github_dark" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhil-0503&theme=github_dark&utcOffset=5.5" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhil-0503&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil-0503&theme=github_dark" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhil-0503&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhil-0503&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhil-0503&theme=github_dark&utcOffset=5.5" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-0503&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil-0503&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhil-0503&theme=github_dark" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhil-0503&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
