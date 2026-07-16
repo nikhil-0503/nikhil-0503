@@ -111,9 +111,18 @@ https://github.com/nikhil-0503/VirtuLingo-LanguageMastery
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nikhil-0503&show_icons=true&theme=tokyonight)
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nikhil-0503&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-0503&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nikhil-0503&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=nikhil-0503&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nikhil-0503&theme=tokyonight&no-frame=true&margin-w=8"/>
+</p>
 
 ---
 
