@@ -1,41 +1,37 @@
-# 👋 Hey, I'm Nikhil S.
+# Hi, I'm Nikhil S.
 
-🎓 Pre-Final Year B.Tech (Information Technology) Student at **SSN College of Engineering**  
-📊 Pursuing B.S. in Data Science and Applications at **IIT Madras**  
-📍 Chennai, India  
+Final Year B.Tech. Information Technology student at **SSN College of Engineering**, concurrently pursuing a **B.S. in Data Science and Applications** at **IIT Madras**.
 
-I’m deeply interested in building intelligent systems that combine strong software engineering with data-driven thinking. I enjoy exploring how scalable backend architectures, machine learning, and immersive technologies can come together to solve meaningful real-world problems.
+I am passionate about building intelligent software systems that combine strong software engineering principles with data-driven decision making. My interests span artificial intelligence, full-stack development, machine learning, and immersive technologies, with a focus on designing scalable solutions for real-world problems.
 
-My curiosity lies at the intersection of AI, systems design, and applied analytics — where ideas move beyond theory into practical, deployable solutions. I’m constantly learning, experimenting, and refining my approach to writing clean, efficient, and impactful code.
-
-Outside of tech, I value discipline, creativity, and continuous self-improvement — qualities that shape both my work and mindset.
-
-🚀 Always open to collaborating on innovative and challenging ideas.
+I enjoy working across the software development lifecycle—from system design and backend development to machine learning pipelines and interactive user experiences. I am continuously exploring emerging technologies and refining my technical skills through projects, research, and hands-on development.
 
 ---
 
-## 🔍 Interests  
-- AI Systems, Hallucination Detection & Applied Machine Learning  
-- Intelligent Signal Processing & Speech-Based Technologies  
-- Scalable Backend Architectures & Full-Stack Engineering  
-- Data-Driven System Design & Optimization Algorithms  
-- Immersive AR/VR Environments & Human-Centered AI  
+## Interests
+
+- Artificial Intelligence & Machine Learning
+- Full-Stack Software Development
+- Backend Systems & Distributed Applications
+- Signal Processing & Data Analytics
+- AR/VR & Immersive Technologies
+- Computer Vision & Intelligent Systems
 
 ---
 
-## 🧰 Tech Stack  
+## Tech Stack
 
-### 🌐 Web Development  
+### Web Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 </p>
 
-### ⚙️ Backend Development  
+### Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi" />
 </p>
 
-### 🤖 AI / ML  
+### AI / Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=opencv" />
   <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
@@ -43,74 +39,90 @@ Outside of tech, I value discipline, creativity, and continuous self-improvement
   <img src="https://img.shields.io/badge/Google%20Multimodal-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-### 🎮 AR/VR & App Development  
+### AR/VR & Application Development
 <p>
   <img src="https://skillicons.dev/icons?i=unity,flutter" />
 </p>
 
-### 🗄 Databases  
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
-### ☁️ Cloud & DevOps  
+### Cloud & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,azure" />
 </p>
 
 ---
 
-## 🚀 Highlight Projects  
+## Featured Projects
 
-### 🛡️ WATCHDOG – AI Hallucination Detection & Output Control System  
-A production-ready AI safety gateway that detects hallucinations and enforces ALLOW/WARN/BLOCK policies on LLM outputs in real time.  
-- FastAPI-based LLM proxy layer with configurable enforcement rules  
-- Real-time hallucination detection with confidence scoring and risk flags  
-- Secure environment-based configuration (Mock/Production) with OpenRouter integration  
-- Enterprise admin dashboard with prompt logs, filtering, and export features  
-- Responsive dark-themed UI with role-based access and activity monitoring  
+### WATCHDOG – AI Hallucination Detection & Output Control System
 
-**Tech Stack**: Python, FastAPI, React.js, OpenRouter API, RESTful APIs, Framer Motion, Policy Enforcement Engine  
-🔗 [GitHub Repo](https://github.com/nikhil-0503/Hallucination-Watchdog)
+An enterprise-grade AI safety platform that acts as a real-time gateway between users and Large Language Models by detecting hallucinations and enforcing configurable output control policies.
 
----
+- FastAPI-based LLM proxy with ALLOW/WARN/BLOCK policy enforcement
+- Real-time hallucination detection and safety scoring
+- Modular backend architecture with environment-based configuration
+- Enterprise admin dashboard for monitoring, analytics, and prompt activity
+- Production-ready REST APIs with scalable deployment support
 
-### 🗣️ VirtuLingo – Immersive AR/VR-Based Language Learning Platform  
-An AR/VR-powered platform that helps users practice language skills through immersive and lifelike scenarios.  
-- Scenario-based environments built in Unity (e.g., restaurant, supermarket) with 3D models from Blender & Daz 3D  
-- Integrated Google Multimodal API and Azure Speech services for real-time feedback  
-- Interactive conversations with AI-driven virtual characters  
-- Privacy-focused design with no data retention  
-- Custom speech analysis algorithms for grammar, pronunciation, and fluency evaluation  
+**Tech Stack:** Python, FastAPI, React.js, OpenRouter API, REST APIs, Framer Motion
 
-**Tech Stack**: Unity, Blender, Daz 3D, Google Multimodal API, Azure STT/TTS, Python, Sketchfab  
-🔗 [GitHub Repo](https://github.com/nikhil-0503/VirtuLingo-LanguageMastery)
+**Repository:**  
+https://github.com/nikhil-0503/Hallucination-Watchdog
 
 ---
 
-### 🧱 AI-Powered Damage Detection for Heritage Monuments  
-Built during the Ctrl + Alt + Compete Hackathon (RVCE × IEEE × Synaptics) to modernize heritage infrastructure maintenance.  
-- YOLOv8 for real-time crack detection from video streams  
-- Canny + OpenCV for edge detection and severity estimation  
-- Streamlit interface for live visualization  
-- Modular pipeline for scalable deployment in heritage sites  
+### RespirationHealth – Contactless Vital Signs Monitoring System
 
-**Tech Stack**: YOLOv8, OpenCV, Python, Streamlit  
-🔗 [GitHub Repo](https://github.com/nikhil-0503/AI-Powered_Heritage_Site_Health_Monitoring)
+A contactless healthcare monitoring system using TI mmWave/UWB radar technology to estimate heart rate, respiration rate, and sleep-related physiological parameters without wearable devices.
+
+- End-to-end machine learning and signal processing pipeline
+- Real-time physiological monitoring and analytics dashboard
+- Multi-mode monitoring including front-facing, behind-wall, and sleep tracking
+- Statistical validation and REST API integration
+- Built using modern web technologies and machine learning frameworks
+
+**Tech Stack:** Python, Flask, React.js, XGBoost, Scikit-learn, Pandas, NumPy, SciPy, TI mmWave Radar
+
+**Repository:**  
+https://github.com/nikhil-0503/RespirationHealth
 
 ---
 
-## 📈 GitHub Stats
+### VirtuLingo – Immersive AR/VR Language Learning Platform
+
+An AI-powered AR/VR language learning platform that enables users to practice conversations through immersive virtual environments with real-time speech feedback.
+
+- Scenario-based learning environments built in Unity
+- AI-powered conversational interactions using Azure Speech Services and Google Multimodal API
+- Real-time pronunciation and fluency assessment
+- Interactive 3D avatars with privacy-focused architecture
+- Designed for immersive and confidence-driven language learning
+
+**Tech Stack:** Unity, Blender, Daz 3D, Azure Speech Services, Google Multimodal API, Python
+
+**Repository:**  
+https://github.com/nikhil-0503/VirtuLingo-LanguageMastery
+
+---
+
+## GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nikhil-0503&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nikhil-0503&layout=compact&theme=tokyonight)
 
 ---
 
-## 📬 Connect with Me  
-📧 nikhil2310204@ssn.edu.in
-🔗 [LinkedIn – Nikhil S.](www.linkedin.com/in/nikhil0503/)  
+## Connect with Me
+
+**Email:** nikhil2310204@ssn.edu.in
+
+**LinkedIn:** https://www.linkedin.com/in/nikhil0503/
 
 ---
 
-> *“Creativity is just connecting things.”*
-
+> *"Creativity is just connecting things."*
