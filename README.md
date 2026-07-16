@@ -111,12 +111,20 @@ https://github.com/nikhil-0503/VirtuLingo-LanguageMastery
 
 ## GitHub Activity
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhil-0503&theme=github_dark)
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikhil-0503&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhil-0503&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhil-0503&theme=github_dark&utcOffset=5.5" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil-0503&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil-0503&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhil-0503&theme=github_dark" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-0503&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
