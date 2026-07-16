@@ -121,11 +121,6 @@ https://github.com/nikhil-0503/VirtuLingo-LanguageMastery
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhil-0503&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhil-0503&theme=github_dark" width="49%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhil-0503&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
